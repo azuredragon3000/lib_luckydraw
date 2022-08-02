@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lib_luckydraw</string>
+
+    <string name="vongquaymayman_title">Vòng Quay May Mắn</string>
+    <string name="vongquaymayman_description">Nếu bạn quay trúng ô đỏ, chứng tỏ rằng \n bạn rất may măn về tình yêu\n màu xanh chứng tỏ đào hoa \n các màu còn lại bình thường nhé</string>
+    <string name="vongquaymayman_quay">Quay</string>
+
+</resources>
